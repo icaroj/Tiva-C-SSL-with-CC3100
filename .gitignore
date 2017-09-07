@@ -1,0 +1,6 @@
+common/
+gcc/
+platform/
+simplelink/
+uniflash_config/
+keys/
